@@ -1,7 +1,8 @@
 # https://github.com/prolesoft
 
-hello
+[Join the chat on Matrix](https://matrix.to/#/!TUENHHyVTWHKRxKiSm:matrix.org?via=matrix.org)
 
-todo: website goes here
+## TODO:
 
-join the chat: https://matrix.to/#/!TUENHHyVTWHKRxKiSm:matrix.org?via=matrix.org
+* Website goes here
+* Move the blog over here

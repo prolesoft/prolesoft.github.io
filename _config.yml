@@ -1,1 +1,11 @@
-theme: jekyll-theme-leap-day
+title: ProleSoft
+description: Software by and for the proletariat
+url: "https://prolesoft.github.io"
+plugins:
+  - jekyll-sitemap
+  - jekyll-readme-index
+  - jekyll-seo-tag
+defaults:
+  -
+    values:
+      layout: default
