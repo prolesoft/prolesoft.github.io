@@ -4,4 +4,4 @@ hello
 
 todo: website goes here
 
-https://matrix.to/#/!TUENHHyVTWHKRxKiSm:matrix.org?via=matrix.org
+join the chat: https://matrix.to/#/!TUENHHyVTWHKRxKiSm:matrix.org?via=matrix.org
