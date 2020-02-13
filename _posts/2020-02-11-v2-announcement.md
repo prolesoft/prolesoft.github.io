@@ -4,7 +4,7 @@ title:  "Announcing marxist.space v2!"
 author: Zac Anger
 ---
 
-This project began as a bunch of bookmarks copy-pasted into a site.
+The project began as a bunch of bookmarks copy-pasted into a site.
 What was initially a one-page list of categorized links is now a moderately-sized,
 and growing, collection of pages, and it's getting harder and harder to quickly
 find relevant resources for a given topic.
@@ -20,9 +20,9 @@ sources to back up claims during discussions.
 The new app will feature a tagging system, (hopefully) intelligent search,
 and eventually system for showing excerpts of sources for quick citation.
 We'll be keeping simple, plain-text data storage so anyone can
-[put in an issue](https://github.com/marxism/marxist.space/issues) to add
+[put in an issue](https://github.com/prolesoft/marxist.space/issues) to add
 a resource.
 
 The development is happening all in the open, so feel free to check out
-[the project](https://github.com/marxism/marxist.space/projects/1) and add
+[the project](https://github.com/prolesoft/marxist.space/projects/1) and add
 your suggestions or contribute!
