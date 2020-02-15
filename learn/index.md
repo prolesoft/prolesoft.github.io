@@ -12,12 +12,11 @@ are more than happy to give as much guidance as possible to those who are here t
 The order you probably want to follow in learning the various skills that go into software development might look
 something like:
 
-1. Basic Website Development
-1. Scripting
-1. Command Line Interface
-1. Version Control Systems
-1. Persistent Data Solutions
-1. Web Application Development
-1. DevOps
-
-
+1. Basic Website Development (HTML, CSS)
+1. Scripting (JavaScript, Python)
+1. Command Line Interface (Terminal, Shell/Bash)
+1. Version Control Systems (Git)
+1. Persistent Data Solutions (SQLite, PostgreSQL)
+1. Web Application Development (Ruby, Python, JavaScript)
+1. DevOps (Docker, Kubernetes, Terraform)
+1. Advanced Programming (Haskell, Clojure, Rust, F#)
