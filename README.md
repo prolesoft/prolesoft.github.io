@@ -1,4 +1,4 @@
-# https://github.com/prolesoft
+# prolesoft.github.io
 
 [Join the chat on Matrix](https://matrix.to/#/!TUENHHyVTWHKRxKiSm:matrix.org?via=matrix.org)
 
