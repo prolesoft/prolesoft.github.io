@@ -18,8 +18,8 @@ leaving your software untouched.
 Contributing to open-source software is a process consisting of:
 
 1. Downloading the software's source code
-2. Reading the software's documentation and engaging with its community or head developers to understand how the code works
-3. Identifying a problem, potential feature or change you might like to see
-4. Starting a conversation with the community and/or head developers about the change, whether others would appreciate it, and what it would take to make it a reality
-5. Editing and experimenting with the code, either alone or with others, in an attempt to implement the change successfully
-6. Returning to the conversation table when you reach dead-ends or difficult to decipher errors
+1. Reading the software's documentation and engaging with its community or lead developers to understand how the code works
+1. Identifying a problem, potential feature or change you might like to see
+1. Starting a conversation with the community and/or lead developers about the change, whether others would appreciate it, and what it would take to make it a reality
+1. Editing and experimenting with the code, either alone or with others, in an attempt to implement the change successfully
+1. Returning to the conversation table when you reach dead-ends or difficult errors
