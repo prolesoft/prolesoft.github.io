@@ -9,3 +9,6 @@ show_sidebar: true
 
 The potential for software to empower the international working class movement is vast; it's time we tapped into it. ProleSoft intends to organise
 working class software developers in pursuit of this goal.
+
+[Join the chat on Matrix](https://matrix.to/#/!TUENHHyVTWHKRxKiSm:matrix.org?via=matrix.org)
+or check out our [GitHub org](https://github.com/prolesoft).
