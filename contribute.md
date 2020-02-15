@@ -6,7 +6,7 @@ permalink: /contribute/
 
 # Contribute
 
-### What does it Mean to Contribute?
+### What Does it Mean to Contribute?
 
 In the world of open-source software, it is commonplace even for complete strangers to make improvements, fixes or
 adjustments to the software whose source code you publish online. This is a core benefit of open-source software: the
