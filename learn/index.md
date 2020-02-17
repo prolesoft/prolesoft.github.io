@@ -12,7 +12,7 @@ are more than happy to give as much guidance as possible to those who are here t
 The order you probably want to follow in learning the various skills that go into software development might look
 something like:
 
-1. Basic Website Development (HTML, CSS)
+1. [Basic Website Development (HTML, CSS)](/learn/basic_web_dev)
 1. Scripting (JavaScript, Python)
 1. Command Line Interface (Terminal, Shell/Bash)
 1. Version Control Systems (Git)
