@@ -2,5 +2,8 @@
   link: /contribute/
 - name: Learn
   link: /learn/
+  dropdown:
+    - name: Basic Website Development
+      link: /learn/basic_web_dev
 - name: Blog
   link: /blog/
