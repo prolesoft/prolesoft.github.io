@@ -6,7 +6,7 @@ permalink: /learn/scripting
 
  It should be acknowledged that one of the primary goals that one hopes to achieve as a programmer is to automate things
  that can be done manually, but would take much longer if they were. A _script_ is a type of computer program that's 
- (usually) so  simple that if you read it out loud line-by-line (like you would the script of a play), a person listening 
+ (usually) so simple that if you read it out loud line-by-line (like you would the script of a play), a person listening 
  could probably follow your instructions as well as the computer could, except with all the limitations of being human. 
  Scripting is the art and science of creating scripts that are as simple as possible, using _scripting languages_, 
  programming languages whose intended purpose is the creation of scripts.
