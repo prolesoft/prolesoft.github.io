@@ -5,5 +5,7 @@
   dropdown:
     - name: Basic Website Development
       link: /learn/basic_web_dev
+    - name: Scripting
+      link: /learn/scripting
 - name: Blog
   link: /blog/
