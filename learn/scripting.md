@@ -24,7 +24,7 @@ decision making ability in order to achieve complex functionalities.
 
 ## How to Learn
 
-In this section, you'll be learning two scripting languages. First, you'll learn JavaScript, which is often used to add
+In this section, you'll be learning two scripting languages. First, you'll learn JavaScript (JS for short), which is often used to add
 complex and interactive functionality to websites, but in recent years has been adapted for use in all kinds of situations,
 and has quickly grown to be one of the most popular and widely-used general purpose programming languages. After learning
 JS, you'll learn Python. Python was never intended to be used in websites like JavaScript is. It's a more traditional
