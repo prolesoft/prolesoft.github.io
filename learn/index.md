@@ -13,7 +13,7 @@ The order you probably want to follow in learning the various skills that go int
 something like:
 
 1. [Basic Website Development (HTML, CSS)](/learn/basic_web_dev)
-1. Scripting (JavaScript, Python)
+1. [Scripting (JavaScript, Python)](/learn/scripting)
 1. Command Line Interface (Terminal, Shell/Bash)
 1. Version Control Systems (Git)
 1. Persistent Data Solutions (SQLite, PostgreSQL)
