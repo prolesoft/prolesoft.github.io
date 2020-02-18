@@ -31,5 +31,5 @@ above, you'll be brought to a page that looks like this:
 ![matrix.to screenshot with riot join link highlighted with a red square](/assets/images/matrix_join_page.png)
 
 Click on the link surrounded by a red square in the screenshot to join our channel through an app called Riot. You'll
-be asked to make an account, and once you do you'll be able to log in on the riot desktop app, website, or mobile apps.
+be asked to make an account, and once you do you'll be able to log in on the Riot desktop app, website, or mobile apps.
 That's all there really is to it!
