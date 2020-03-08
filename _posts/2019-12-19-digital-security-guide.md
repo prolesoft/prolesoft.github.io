@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Digital Security Guide"
-author: Zac Anger
+author: Zac
 ---
 
 Most major tech companies sell your data to advertisers and governments. You need to stay safe online, so you should be careful about what you use and how
