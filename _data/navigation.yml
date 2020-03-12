@@ -4,8 +4,12 @@
   link: /learn/
   dropdown:
     - name: Basic Website Development
-      link: /learn/basic_web_dev
+      link: /learn/basic-web-dev
     - name: Scripting
       link: /learn/scripting
+    - name: Git
+      link: /learn/git
+    - name: DevOps
+      link: /learn/devops
 - name: Blog
   link: /blog/

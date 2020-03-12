@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic Website Development
-permalink: /learn/basic_web_dev
+permalink: /learn/basic-web-dev
 ---
 
 When we refer to _basic_ website development, we're talking about the creation of simple websites that don't do
@@ -13,8 +13,8 @@ long PDF documents or go to physical locations to receive information.
 
 Of course, not all websites are as simple as that. Some websites we use all the time, like [Twitter](https://twitter.com),
 [Netflix](https://netflix.com), and [PayPal](https://paypal.com) are different from the kind of website described above.
-This is because they do more than just provide information, they provide _interactive functionality_. And those 
-interactive functionalities can get quite complex. Netflix, for example, has to store many terabytes of high quality 
+This is because they do more than just provide information, they provide _interactive functionality_. And those
+interactive functionalities can get quite complex. Netflix, for example, has to store many terabytes of high quality
 video, and its website has to provide a way for users to:
 
 * Sign up and pay for a subscription if they don't have an account
