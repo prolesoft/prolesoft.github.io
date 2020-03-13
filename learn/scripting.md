@@ -53,3 +53,6 @@ and look for JavaScript and Python. They're almost everywhere!
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     - An online book written for new programmers to learn Python and how to use
       it to automate all kinds of tasks
+* [Glitch](https://glitch.com/)
+    - An online development environment for building applications in HTML, CSS,
+      and JavaScript
