@@ -7,6 +7,8 @@
       link: /learn/basic-web-dev
     - name: Scripting
       link: /learn/scripting
+    - name: Command Line
+      link: /learn/cli
     - name: Git
       link: /learn/git
     - name: DevOps

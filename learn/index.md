@@ -16,7 +16,7 @@ into software development might look something like:
 
 1. [Basic Website Development (HTML, CSS)](/learn/basic-web-dev)
 1. [Scripting (JavaScript, Python)](/learn/scripting)
-1. Command Line Interface (Terminal, Shell/Bash)
+1. [Command Line Interface (Terminal, Shell/Bash)](/learn/cli)
 1. [Version Control Systems (Git)](/learn/git)
 1. Persistent Data Solutions (SQLite, PostgreSQL)
 1. Web Application/App Development (Ruby, Python, JavaScript, C#, Java, Swift, Kotlin)
