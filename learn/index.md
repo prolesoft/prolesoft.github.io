@@ -21,5 +21,5 @@ into software development might look something like:
 1. Persistent Data Solutions (SQLite, PostgreSQL)
 1. Web Application/App Development (Ruby, Python, JavaScript, C#, Java, Swift, Kotlin)
 1. [DevOps (Docker, Kubernetes, Terraform)](/learn/devops)
-1. Advanced Programming Languages (Haskell, Clojure, Rust, F#)
-1. Specialised Progamming (Data Science, Systems Programming, etc.)
+1. Specialised Programming (Data Science, Systems Programming, Pure Functional
+   Languages, etc.)
