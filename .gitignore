@@ -16,3 +16,4 @@ core
 .jekyll-cache
 _site
 *.DS_Store
+.vs
