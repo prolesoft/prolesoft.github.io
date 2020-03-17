@@ -12,7 +12,7 @@ we are more than happy to give as much guidance as possible to those who are
 here to learn.
 
 The order you probably want to follow in learning the various skills that go
-into software development might look something like:
+into software development might look something like this:
 
 1. [Basic Website Development (HTML, CSS)](/learn/basic-web-dev)
 1. [Scripting (JavaScript, Python)](/learn/scripting)
@@ -23,3 +23,7 @@ into software development might look something like:
 1. [DevOps (Docker, Kubernetes, Terraform)](/learn/devops)
 1. Specialised Programming (Data Science, Systems Programming, Pure Functional
    Languages, etc.)
+
+Any one of these topics can take months or years to master, and not all of them
+are necessary to contribute to projects or get a career in the software
+industry.
