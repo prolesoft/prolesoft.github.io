@@ -21,8 +21,8 @@ into software development might look something like this:
 1. Persistent Storage (Databases, SQL, Caches)
 1. Web Application/App Development (Ruby, Python, JavaScript, C#, Java, Swift, Kotlin)
 1. [DevOps (Docker, Kubernetes, Terraform)](/learn/devops)
-1. Specialised Programming (Data Science, Systems Programming, Pure Functional
-   Languages, etc.)
+1. [Specialised Programming (Data Science, Systems Programming, Pure Functional
+   Languages, etc.)](/learn/advanced)
 
 Any one of these topics can take months or years to master, and not all of them
 are necessary to contribute to projects or get a career in the software

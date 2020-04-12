@@ -13,5 +13,7 @@
       link: /learn/git
     - name: DevOps
       link: /learn/devops
+    - name: Advanced
+      link: /learn/advanced
 - name: Blog
   link: /blog/
