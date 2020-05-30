@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Announcing marxist.space v2!"
-author: Zac
+author: decadesinweeks
 ---
 
 The project began as a bunch of bookmarks copy-pasted into a site.
