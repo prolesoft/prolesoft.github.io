@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Announcing marxist.space v2!"
+author: ProleSoft
 ---
 
 The project began as a bunch of bookmarks copy-pasted into a site.
