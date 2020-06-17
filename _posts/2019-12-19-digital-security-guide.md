@@ -65,12 +65,7 @@ data has been involved in a leak [here](https://haveibeenpwned.com/)
 
 ### Encryption
 
-[Keybase](https://keybase.io/) is a featureful app that makes encrypted files,
-messaging, group chat, teams, identiy proofs, and Git hosting all very easy to
-use. It's also a US-based company, so is not an ideal option for very sensitive
-data.
-
-Using [GnuPG](https://gnupg.org/) (an implementation of PGP) takes more
+Using [GnuPG](https://gnupg.org/) (an implementation of PGP) takes some
 practice, but is worth it for encrypting files manually and sending encypted
 emails. Check out [this guide](https://github.com/bfrg/gpg-guide) to getting up
 and running with GPG.
@@ -142,8 +137,7 @@ read them. If communications are not E2EE, you should treat them as if they're
 public.
 
 Use [Signal](https://signal.org/) for an SMS/KakaoTalk/WhatsApp alternative, and
-[Riot/Matrix](https://about.riot.im/) for group chat. Use [Keybase](#encryption)
-for both, if you're already using Keybase for other needs.
+[Riot/Matrix](https://about.riot.im/) for group chat.
 
 ### MFA
 
