@@ -15,6 +15,7 @@ working class software developers in pursuit of this goal.
 
 * [marxist.space](https://marxist.space), a filterable and searchable database of
   links to resources for Marxists.
+* [txt](https://prolesoft.github.io/txt), client-side encrypted (no server) text sharing.
 * [MarXXIsts](https://github.com/prolesoft/marxxists-python), a modern Marxist
   theory archive.
 * Do you have an idea? [Join the conversation!](/contribute)
