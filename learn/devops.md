@@ -43,6 +43,7 @@ developers.
 ### Resources
 
 * [DevOps for Beginners](https://blog.newrelic.com/engineering/devops-for-beginners/)
+* [DevOps BootCamp](https://devopsbootcamp.osuosl.org/)
 * [AWS Free Tier](https://aws.amazon.com/free/)
 * [Learn Docker Online](https://www.katacoda.com/courses/container-runtimes)
 * [Learn Kubernetes Online](https://www.katacoda.com/courses/kubernetes)
