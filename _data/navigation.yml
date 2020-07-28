@@ -11,6 +11,8 @@
       link: /learn/cli
     - name: Git
       link: /learn/git
+    - name: Storage
+      link: /learn/storage
     - name: DevOps
       link: /learn/devops
     - name: Advanced

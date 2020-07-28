@@ -18,7 +18,7 @@ into software development might look something like this:
 1. [Scripting (JavaScript, Python)](/learn/scripting)
 1. [Command Line Interface (Terminal, Shell/Bash)](/learn/cli)
 1. [Version Control Systems (Git)](/learn/git)
-1. Persistent Storage (Databases, SQL, Caches)
+1. [Persistent Storage (Databases, SQL, Caches)](/learn/storage)
 1. Web Application/App Development (Ruby, Python, JavaScript, C#, Java, Swift, Kotlin)
 1. [DevOps (Docker, Kubernetes, Terraform)](/learn/devops)
 1. [Specialised Programming (Data Science, Systems Programming, Pure Functional

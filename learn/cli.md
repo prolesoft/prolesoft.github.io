@@ -4,7 +4,7 @@ title: Command Line
 permalink: /learn/cli
 ---
 
-The command line seems formidible at first, but with a few weeks of practice,
+The command line seems formidable at first, but with a few weeks of practice,
 you may find yourself moving faster and more comfortably than when using
 graphical applications. Everything you do in a Graphical User Interface (GUI)
 can be done with a few commands, usually much more efficiently: watching videos,
@@ -30,8 +30,6 @@ If you're on Windows, you'll need to install some extra software:
 
 You can also learn online without installing or configuring any extra software
 [here](https://www.katacoda.com/courses/ubuntu/playground).
-
-Once you have a terminal program running
 
 ### Resources
 
